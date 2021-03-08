@@ -5,3 +5,5 @@ Blazor Server CRUD App in Visual Studio Code
 * Blazor
 * ASP.Net Core Web API
 * Entity Framework Core
+
+link https://dev.to/rineshpk/blazor-server-crud-app-using-visual-studio-code-2b2g
